@@ -1,0 +1,28 @@
+name: T.S. Bateman
+favicon: null
+layout_spectrum: 0.17044314881786704
+typography_spectrum: 0.6378749632276595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7210379554890096
+  lightness: 0.4413585467264056
+  saturation: 0.9021457307972014
+  rhythmicContrast: 0.025688053807243705
+purpose: []
